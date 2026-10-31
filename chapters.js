@@ -162,25 +162,32 @@ window.STILL_US_DATA = {
       photoCaption: "a reminder that growth takes time."
     },
     {
-      number: "09",
-      month: "October",
-      year: 2026,
-      published: true,
-      title: "still, us",
-      subtitle: "Not a conclusion, just another page.",
-      intro: "Nine months can hold so many versions of two people: the excited ones, the tired ones, the learning ones, and the ones who try again. This page is a pause to look back with gratitude, not a claim that the story is finished.",
-      moments: [
-        "Looking back at the small memories that have gathered over time.",
-        "Recognizing the lessons that came through joy and difficulty.",
-        "Making space for new memories that have not happened yet."
-      ],
-      lesson: "Love is not proven by never having hard days. It is shaped by honesty, responsibility, tenderness, and the daily choices that follow.",
-      hardPart: "There will still be things we do not know how to handle perfectly.",
-      repair: "To keep learning together, to seek wisdom, to apologize sincerely, and to let our actions carry the weight of our words.",
-      letter: "to my dearest, kiray.\n\nThis is not the end of our story. It is only a little pause to look at what has brought us here — the joy, the lessons, the difficult conversations, and the grace to keep growing.\n\nI am grateful for the memories we have collected and for the things our relationship continues to teach me. I hope the next pages are written with patience, honesty, and a love that keeps learning how to care well.\n\nlove,\nkb",
-      photo: "",
-      photoCaption: "still, us — another page in our story."
-    }
+  number: "09",
+  month: "October",
+  year: 2026,
+  published: true,
+  title: "still, us",
+  subtitle: "A month of difficult realizations, honest conversations, and learning what it means to love intentionally.",
+
+  intro: "October was not the easiest page of our story. It brought us face to face with things we could no longer simply overlook: the misunderstandings, the exhaustion, the expectations that slowly faded, and the moments when loving each other did not feel as easy as it used to. It made me realize that sometimes, the person we love can grow tired not because they suddenly stopped caring, but because some things have been left unattended for too long. This month was a reminder that love cannot survive on intentions alone. It needs to be expressed, practiced, and seen through the little things we sometimes take for granted.",
+
+  moments: [
+    "Facing the difficult conversations we could no longer avoid, even when finding the right words was not easy.",
+    "Realizing that silence does not always mean peace, and that someone can be hurting even when they have stopped explaining what hurts.",
+    "Learning that apologies mean little when they are not accompanied by genuine changes, consistency, and a willingness to take responsibility."
+  ],
+
+  lesson: "Love is not simply about wanting someone to stay. It is also about recognizing how our actions affect them, taking responsibility for the ways we have fallen short, and learning to love with greater intentionality. I am learning that love should not only be felt through words during difficult moments, but also experienced through consistency on ordinary days. And above everything, our relationship must never take the place of Christ, because He alone is the foundation from whom we learn what true love looks like.",
+
+  hardPart: "Perhaps one of the hardest realizations this month was understanding that someone can become tired of expecting things that should not have needed to be repeatedly asked for. There are moments when I may have mistaken silence for understanding, familiarity for security, and my intentions for actual effort. I cannot pretend that everything was okay, nor can I simply dismiss the weight of the things that happened. Some wounds need more than a few comforting words, and some conversations require the humility to listen without immediately defending ourselves.",
+
+  repair: "To become more intentional with the way I love. To listen instead of assuming, to understand instead of immediately defending myself, and to acknowledge my shortcomings without making excuses for them. To apologize sincerely and allow consistency to give meaning to those apologies. I want to learn how to love not merely because I am afraid of losing someone, but because I understand the responsibility and privilege of caring for someone. And if we are to continue writing this story, may we do so with Christ at the center, allowing His grace to teach us repentance, patience, forgiveness, and a love that does not remain merely in words.",
+
+  letter: "to my dearest, kiray.\\n\\nOctober was not exactly the kind of month I would have wanted us to experience. There were things we had to confront, conversations that were not easy to have, and moments when I realized that maybe I had not been loving you as intentionally as I thought I was.\\n\\nI have been thinking about the things that happened, especially the times when you became tired of expecting something from me. And honestly, that realization hurts because I know that there are things I could have done better without having to wait for things to become difficult first. I do not want to make this letter another collection of promises just because things have been hard. I want to acknowledge that my intentions do not automatically erase the moments when my actions fell short. You deserved consistency, not just explanations. You deserved to feel cared for even on ordinary days, not only when something was wrong.\\n\\nI am also learning that loving someone does not mean we will never misunderstand each other or never reach a point of exhaustion. But it does mean that we should be willing to face the truth, take responsibility for our part, and learn from the things that hurt us. I do not want us to become people who keep repeating the same apologies without allowing anything to change.\\n\\nAnd more than anything, I hope we continue to remember that Christ must remain at the center of everything. Our relationship is not our Savior. We cannot expect each other to provide the kind of completeness that only God can give. Instead, may we learn to love one another out of the grace we have first received from Him.\\n\\nI cannot promise that I will suddenly become perfect at everything. But I do want to become more mindful, more responsible, and more intentional. Not just because October was difficult, and not just because I am afraid of what we might lose, but because loving you should be reflected in the way I choose to care for you every day.\\n\\nThis page does not pretend that everything has already been repaired. It simply acknowledges where we are, what we have learned, and what still needs to grow. I do not know exactly what every next page will look like, but I hope we write it with more honesty, patience, and a love that is continually being shaped by Christ.\\n\\nstill, us.\\n\\nwith love,\\nkb",
+
+  photo: "",
+  photoCaption: "October, 2026 — not a perfect chapter, but an honest one."
+}
   ],
 
   keepsakes: [
